@@ -1,6 +1,7 @@
 <template>
-  <Tutorial />
-
+    <article>
+    <nuxt-content :document="article" />
+  </article>
 </template>
 
 <script lang="ts">
