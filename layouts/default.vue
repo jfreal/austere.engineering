@@ -6,15 +6,14 @@
         flex flex-col
         text-center
         sm:flex-row sm:text-left sm:justify-between
-        py-2
-        px-4
         bg-white
         shadow
-        sm:items-baseline
         w-full
+        items-center
+        px-6
       "
     >
-      <div class="mb-2 sm:mb-0">
+      <div class="sm:mb-0">
         <a
           href="/home"
           class="text-2xl no-underline text-grey-darkest hover:text-blue-dark"
@@ -25,36 +24,13 @@
       <div>
         <a
           href="/one"
-          class="
-            text-lg
-            no-underline
-            text-grey-darkest
-            hover:text-blue-dark
-            ml-2
-          "
-          >One</a
+          class="text-lg no-underline text-monkblue hover:text-blue-dark ml-2"
+          >Why</a
         >
         <a
           href="/two"
-          class="
-            text-lg
-            no-underline
-            text-grey-darkest
-            hover:text-blue-dark
-            ml-2
-          "
-          >Two</a
-        >
-        <a
-          href="/three"
-          class="
-            text-lg
-            no-underline
-            text-grey-darkest
-            hover:text-blue-dark
-            ml-2
-          "
-          >Three</a
+          class="text-lg no-underline text-monkblue hover:text-blue-dark ml-2"
+          >Contact</a
         >
       </div>
     </nav>
