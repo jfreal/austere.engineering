@@ -8,6 +8,10 @@
   }
 
   h2 {
-    @apply text-xl;
+    @apply text-xl text-darkestbrown;
+  }
+
+  p {
+    @apply mb-2;
   }
 }

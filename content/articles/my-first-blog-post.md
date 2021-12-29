@@ -3,13 +3,10 @@ Austere engineering is an approach to reach blissful software engineering produc
 The worship of status reporting and the temptations of vanity metrics have led us astray from the purity of of the work.  What is simple is both sufficient and efficient. 
 
 Austere engineering may not be for everyone and we all take our own paths.  Clarity can only be found through reflection.  Be inspired, not dogmatic, and transform software delivery capability delivery at your organization.
-## The Principles of Austere Engineering
+# The Principles of Austere Engineering
 
 ## Force Majeure
 Eh… The world has an irresistible compulsion to change, and we fixate on artifacts like roadmaps, OKRs, and Gantt charts into your software development process hold you back from changing priorities. 
-
-## Test
-
 
 ## Flow State of Being
 Flow is the ideal state of being.  Any interruptions that limit flow need to be identified day by day.  
