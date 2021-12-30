@@ -15,3 +15,7 @@
     @apply mb-2;
   }
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

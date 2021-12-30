@@ -34,7 +34,7 @@
         >
       </div>
     </nav>
-    <div class="max-w-lg mx-auto">
+    <div class="mt-12 mx-auto">
       <Nuxt />
     </div>
   </div>
