@@ -13,7 +13,8 @@ module.exports = {
             darkestbrown: '#7D5A50',
             brown: ' #B4846C',
             lightbrown: '#E5B299',
-            tan: '#FCDEC0'            
+            tan: '#FCDEC0',
+            lighttan: '#fef2e5'            
           },
           fontFamily: {
             'roboto': ['"Roboto Slab"', 'serif'],
